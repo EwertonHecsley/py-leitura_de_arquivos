@@ -8,6 +8,8 @@ def load_games_from_json(file_path):
             data = json.load(file)    
     except  FileNotFoundError:
         raise FileNotFoundError(f'Endereco de aquivo {file_path} nao encontrado.')
+    except json.decoder.JSONDecodeError:
+        print('Formato invalido, deve ser JSON')
         
     return data
     
