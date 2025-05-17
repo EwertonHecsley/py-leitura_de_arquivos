@@ -7,7 +7,7 @@ def load_games_from_json(file_path):
         with open(file_path,"r") as file:
             data = json.load(file)    
     except  FileNotFoundError:
-        print(f"Arquivo {file_path} não encontrado.")   
+        raise FileNotFoundError(f'Endereco de aquivo {file_path} nao encontrado.')
         
     return data
     
