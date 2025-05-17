@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "nome": "Minecraft",
+      "plataforma": "Multi",
+      "ano_lancamento": 2011,
+      "vendas_milhoes": 238,
+      "genero": "Sandbox",
+      "desenvolvedor": "Mojang"
+    },
+    {
+      "id": 2,
+      "nome": "Grand Theft Auto V",
+      "plataforma": "Multi",
+      "ano_lancamento": 2013,
+      "vendas_milhoes": 175,
+      "genero": "Ação/Aventura",
+      "desenvolvedor": "Rockstar Games"
+    },
+    {
+      "id": 3,
+      "nome": "Tetris",
+      "plataforma": "Multi",
+      "ano_lancamento": 1984,
+      "vendas_milhoes": 100,
+      "genero": "Puzzle",
+      "desenvolvedor": "Alexey Pajitnov"
+    },
+    {
+      "id": 4,
+      "nome": "Wii Sports",
+      "plataforma": "Wii",
+      "ano_lancamento": 2006,
+      "vendas_milhoes": 83,
+      "genero": "Esportes",
+      "desenvolvedor": "Nintendo"
+    },
+    {
+      "id": 5,
+      "nome": "PlayerUnknown's Battlegrounds",
+      "plataforma": "Multi",
+      "ano_lancamento": 2017,
+      "vendas_milhoes": 70,
+      "genero": "Battle Royale",
+      "desenvolvedor": "PUBG Corporation"
+    },
+    {
+      "id": 6,
+      "nome": "Super Mario Bros.",
+      "plataforma": "NES",
+      "ano_lancamento": 1985,
+      "vendas_milhoes": 58,
+      "genero": "Plataforma",
+      "desenvolvedor": "Nintendo"
+    },
+    {
+      "id": 7,
+      "nome": "Pokemon Red/Blue",
+      "plataforma": "Game Boy",
+      "ano_lancamento": 1996,
+      "vendas_milhoes": 47,
+      "genero": "RPG",
+      "desenvolvedor": "Game Freak"
+    },
+    {
+      "id": 8,
+      "nome": "The Legend of Zelda: Breath of the Wild",
+      "plataforma": "Switch",
+      "ano_lancamento": 2017,
+      "vendas_milhoes": 32,
+      "genero": "Ação/Aventura",
+      "desenvolvedor": "Nintendo"
+    },
+    {
+      "id": 9,
+      "nome": "Call of Duty: Modern Warfare 3",
+      "plataforma": "Multi",
+      "ano_lancamento": 2011,
+      "vendas_milhoes": 30,
+      "genero": "FPS",
+      "desenvolvedor": "Infinity Ward"
+    },
+    {
+      "id": 10,
+      "nome": "FIFA 21",
+      "plataforma": "Multi",
+      "ano_lancamento": 2020,
+      "vendas_milhoes": 25,
+      "genero": "Esportes",
+      "desenvolvedor": "EA Sports"
+    }
+  ]
+  
